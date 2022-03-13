@@ -6,7 +6,7 @@ Library for Interfacing with AT24C16 EEPROM chip in the Arduino environment.
 * Page read/write operation
 * Store/retrieve integer, long, float, double, String to/from EEPROM 
 * Efficient Erase operation
-* Buildin Memorymap function
+* Builtin Memorymap function
 
 
 # _Byte read/write operation_
