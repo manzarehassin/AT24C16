@@ -7,10 +7,10 @@
  *  ---------------------------------------------------------------------------------
  *  
  *  Connect a AT24C16 EEPROM chip and connect it to arduino board by following this diagram.
- *  https://github.com/kittyboy2005/AT24C16/blob/master/Pinout/AT24C16_pinout_screen.png
+ *  https://github.com/manzarehassin/AT24C16/blob/master/Pinout/AT24C16_pinout_screen.png
  *  ------------------------------------------------------------------------
  *  
- *  AT24C16 Library available at https://github.com/kittyboy2005/AT24C16
+ *  AT24C16 Library available at https://github.com/manzarehassin/AT24C16
  *  
  *  ------------------------------------------------------------------------
  *  
