@@ -8,7 +8,7 @@
  *  
  *  Release Date: Sunday, March 13, 2022
  *  
- *  Library available at https://github.com/kittyboy2005/AT24C16
+ *  Library available at https://github.com/manzarehassin/AT24C16
  
  MIT License
 Copyright (c) 2020 Manzar-E-Hassin
